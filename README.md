@@ -1,1 +1,1 @@
-# Projeto-artigo-t-cnico-gerado-por-I.A.s
+# Manipulando Listas em Python: Dicas e Truques Essenciais
